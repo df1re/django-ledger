@@ -1,4 +1,3 @@
-
 ![django ledger logo](https://us-east-1.linodeobjects.com/django-ledger/logo/django-ledger-logo@2x.png)
 
 ### An Accounting, Bookkeeping & Financial Analysis Engine for the Django Framework.
